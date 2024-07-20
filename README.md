@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAva + DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at roushankumar54048@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He / him
 - ⚡ Fun fact: Live Like a King
 
 <!---
