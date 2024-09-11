@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/roushankumark/Velocity/blob/main/Assests/github%20profile%20.mp4)](https://roushankumark.github.io/portfolio/)
+[![MasterHead]([https://github.com/roushankumark/Velocity/blob/main/Assests/github%20profile%20.mp4](https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif))](https://roushankumark.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2067758427357551478/5E236C4D5DDE95E981DF20EA59F3D1C0935998BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
