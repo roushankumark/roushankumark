@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif)](https://roushankumark.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/roushankumark/Velocity/blob/main/Assests/download.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/roushankumark/Velocity/blob/main/Assests/download.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushankumark&label=Profile%20views&color=0e75b6&style=flat" alt="roushankumark" /> </p>
 
