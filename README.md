@@ -1,11 +1,12 @@
 [![MasterHead](https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif)](https://roushankumark.github.io/portfolio/)
+
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2067758427357551478/5E236C4D5DDE95E981DF20EA59F3D1C0935998BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roushankumar&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roushankumar&label=Profile%20views&color=0e75b6&style=flat" alt="roushankumark" /> </p>
 
-<p align="left"> <a href="https://x.com/Roushankumar_" target="blank"><img src="https://img.shields.io/twitter/follow/Roushankumar_?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://x.com/Roushankumar_" target="blank"><img src="https://img.shields.io/twitter/follow/Roushankumar_?logo=twitter&style=for-the-badge" alt="roushankumark"  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -22,7 +23,7 @@
 <a href="https://x.com/Roushankumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Roushankumar_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/roushankumar-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/roushan.kumar_/?igshid=YmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWNqPoCGajodyqz8-KsV6kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWNqPoCGajodyqz8-KsV6kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roushan kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,11 +31,12 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=roushankumark&&theme=xcode)](https://github.com/roushankumark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushankumark&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roushankumark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roushankumark&show_icons=true&locale=en&theme=tokyonight" alt="roushankumark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roushankumark&&theme=tokyonight" alt="roushankumark" /></p>
+
 
 
 
