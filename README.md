@@ -1,7 +1,9 @@
-[![MasterHead]([https://github.com/roushankumark/Velocity/blob/main/Assests/github%20profile%20.mp4](https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif))](https://roushankumark.github.io/portfolio/)
+[![MasterHead](https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif)](https://roushankumark.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2067758427357551478/5E236C4D5DDE95E981DF20EA59F3D1C0935998BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roushankumar&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <p align="left"> <a href="https://x.com/Roushankumar_" target="blank"><img src="https://img.shields.io/twitter/follow/Roushankumar_?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
@@ -33,6 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
 
 
 
