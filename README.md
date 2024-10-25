@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and algorithms (DSA)**
 
-- 👨‍💻 All of my projects are available at- <a href="https://roushankumark.github.io/portfolio/">Portfolio</a>
+- 👨‍💻 All of my projects are available at- <a href="https://roushankumark.github.io/Portfolio-new/">Portfolio</a>
 
 - 📫 How to reach me **roushankumar54048@gmail.com**
 
