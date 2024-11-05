@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at- <a href="https://roushankumark.github.io/Portfolio-new/">Portfolio</a>
 
-- 📫 How to reach me **roushankumar54048@gmail.com**
+- 📫 How to reach me **theroushankumarr.com**
 
 - ⚡ Fun fact **I am Funny**
 
