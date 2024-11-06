@@ -1,7 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/github%20animated.gif?alt=media&token=bafa6878-188d-4b95-a8c8-63ee3756fa8a)](https://roushankumark.github.io/Portfolio-new/)
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif">
+<a href="https://roushankumark.github.io/Portfolio-new/" target="_blank">
+    <img align="right" alt="Coding" width="400" src="https://github.com/roushankumark/Velocity/blob/main/Assests/githubprofile-roushan.gif">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushankumark&label=Profile%20views&color=0e75b6&style=flat" alt="roushankumark" /> </p>
 
